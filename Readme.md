@@ -1,10 +1,6 @@
-# 00 boilerplate
+# React Alicante Workshop - Boiler plate code
 
-Starting point for the rest of examples.
-
-Is just a blank project created using create-react-app.
-
-Hop into _01 use state_ _Readme.md_ and start with the fun :).
+React Alicante 2019, Hooks workshop, starting material, full implemented demos can be found at: https://github.com/Lemoncode/react-alicante-hooks-workshop
 
 # About Basefactor + Lemoncode
 
